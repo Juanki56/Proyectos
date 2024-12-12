@@ -67,7 +67,7 @@ header {
     list-style: none;
     padding: 10px;
     margin: 0;
-    background-color: rgba(84, 82, 82, 0.99);
+    background-color: #000000;
     border: 3px solid #d30000;
     border-radius: 5px;
     position: absolute;
@@ -93,14 +93,14 @@ header {
 }
 
 .contact-list li a {
-    color: #333;
+    color: #910000;
     text-decoration: none;
     font-size: 14px;
     transition: color 0.3s;
 }
 
 .contact-list li a:hover {
-    color: #000;
+    color: #000000;
 }
 
 input {
